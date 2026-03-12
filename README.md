@@ -1,13 +1,5 @@
 # Zepto_inventory_analysis
 
-## Portfolio Project Description
-This project demonstrates my ability to use **SQL for real-world business analysis**.  
-Using a product dataset from a quick-commerce grocery platform (Zepto), I performed **data exploration, cleaning, and analytical queries in PostgreSQL** to extract insights related to pricing strategies, inventory availability, and category-level revenue potential.
-
-The goal of this project was to simulate the work of a **data analyst supporting business decisions in an e-commerce environment**.
-
----
-
 # Project Background
 
 Zepto is a **quick commerce grocery delivery platform** that delivers products within minutes using dark stores.
@@ -19,8 +11,6 @@ As a data analyst, the objective of this analysis was to understand:
 - Inventory availability
 - Revenue potential across categories
 
-The SQL queries used in this project can be found here:  
-`/SQL/zepto_analysis.sql`
 
 ---
 
